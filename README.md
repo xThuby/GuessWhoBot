@@ -1,1 +1,1 @@
-"# GuessWhoBot" 
+# GuessWhoBot
