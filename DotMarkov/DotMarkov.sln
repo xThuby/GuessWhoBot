@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotMarkov", "DotMarkov.csproj", "{09B022C8-C26F-48B7-A7BE-3A95A44AB042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B022C8-C26F-48B7-A7BE-3A95A44AB042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B022C8-C26F-48B7-A7BE-3A95A44AB042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B022C8-C26F-48B7-A7BE-3A95A44AB042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B022C8-C26F-48B7-A7BE-3A95A44AB042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81776AA6-C092-4F49-B4C4-C659114E92D6}
+	EndGlobalSection
+EndGlobal
